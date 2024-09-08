@@ -105,12 +105,12 @@ I believe that through concrete research practices, I can better understand the 
 
 ## Project Highlights
 
-- **Data Preprocessing & Analysis:**
+- **Data Preprocessing and Analysis:**
   - Utilized the Pandas library to clean rows with missing content.
   - Analyzed the dataset of glass artifacts.
   - Determined correlations between elements (chemical composition, glass type, weathering) using the Pierce correlation coefficient.
 
-- **Regression Modeling & Selection:**
+- **Regression Modeling and Selection:**
   - Established and tested various regression models, including Bayesian ridge regression, elastic network regression, SVM regression, and gradient-boosting regression.
   - The gradient-boosting regression model was the most accurate, achieving 100% classification accuracy on existing data.
 
@@ -131,17 +131,17 @@ I believe that through concrete research practices, I can better understand the 
 
 ## Project Highlights
 
-- **Project Planning & Vision:**
+- **Project Planning and Vision:**
   - Spearheaded the planning of an intelligent system designed to assist visually impaired individuals.
   - Integrated smart glasses, smart canes, and smartphones.
   - Envisioned a system that enables the visually impaired to carry out daily activities independently.
 
-- **Industry Research & Analysis:**
+- **Industry Research and Analysis:**
   - Conducted comprehensive data collection and analysis on new technology used for medical devices.
   - Investigated industry trends, market drivers, financial data, and product types.
   - Provided strategic direction and suggested improvements for the technology team.
 
-- **Business Plan & Presentation:**
+- **Business Plan and Presentation:**
   - Authored a 5000-word business plan depicting the project's objectives, strategies, and market potential.
   - Compiled and presented the project report, showcasing the concept and its feasibility to stakeholders.
 
