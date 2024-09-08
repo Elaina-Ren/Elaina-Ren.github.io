@@ -144,14 +144,3 @@ redirect_from:
 # 📖 Educations
 - *2024.09 - 2026.07 (now)*, The University of Hong Kong, Master of Science in Artificial Intelligence.
 - *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering and Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
-
-# 📌 Extracurricular Activities
-# School of Computer Science / Cyber Security Social Practice and Volunteer Service Center
-**Location:** Nankai University  
-**Role:** Director  
-**Duration:** Sep. 2021 - Sep. 2022
-
-## Achievements
-
-- Provided volunteer services for over 1100 students, accumulating over 3000 hours of volunteer service.
-- Organized and planned over 100 volunteer activities.
