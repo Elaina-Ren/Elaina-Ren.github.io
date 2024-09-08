@@ -123,28 +123,6 @@ I believe that through concrete research practices, I can better understand the 
   - Conducted KMO and Bartlett's tests.
   - Performed principal component analysis based on the test results.
 
-# The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition
-**Location:** Tianjin, China  
-**Award:** Second Prize in the Tianjin Division  
-**Role:** Team Leader  
-**Duration:** Mar. 2023–May. 2023
-
-## Project Highlights
-
-- **Project Planning and Vision:**
-  - Spearheaded the planning of an intelligent system designed to assist visually impaired individuals.
-  - Integrated smart glasses, smart canes, and smartphones.
-  - Envisioned a system that enables the visually impaired to carry out daily activities independently.
-
-- **Industry Research and Analysis:**
-  - Conducted comprehensive data collection and analysis on new technology used for medical devices.
-  - Investigated industry trends, market drivers, financial data, and product types.
-  - Provided strategic direction and suggested improvements for the technology team.
-
-- **Business Plan and Presentation:**
-  - Authored a 5000-word business plan depicting the project's objectives, strategies, and market potential.
-  - Compiled and presented the project report, showcasing the concept and its feasibility to stakeholders.
-
 # 👑 Honors and Awards
 - *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
 - *2023.04* SK Artificial Intelligence Outstanding Undergraduate Scholarship
