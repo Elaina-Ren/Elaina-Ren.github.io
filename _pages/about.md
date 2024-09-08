@@ -42,7 +42,8 @@ redirect_from:
   - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
  
 # Research on Big Data Recommendation Systems
-**Course Project**         
+**Course Project**                 
+
 **Duration:** May 2023–Jun. 2023
 
 ## Project Highlights
