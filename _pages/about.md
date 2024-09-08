@@ -21,31 +21,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📝 Research Experience 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 📝 RESEARCH EXPERIENCE 
-
-# Genome Three-Dimensional Spatial Structure Domain Consistency Assessment Platform
-**Location:** Tianjin, China  
+# Genome Three-Dimensional Spatial Structure Domain Consistency Assessment Platform 
 **Graduation Project:** Scored 90  
 **Duration:** Nov. 2023–Jun. 2024
 
@@ -66,8 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
   - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
  
 # Research on Big Data Recommendation Systems
-**Location:** Tianjin, China  
-**Course Project:** May 2023–Jun. 2023
+**Course Project** 
+**Duration:** May 2023–Jun. 2023
 
 ## Project Highlights
 
@@ -88,8 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Demonstrated that FunkSVD had superior prediction accuracy, reducing RMSE from 30.17364 to 23.64519.
   - Decreased runtime by 90% compared to User-Based Collaborative Filtering.
 
-# Development of Elderly Cane Obstacle Avoidance System Based on Intelligent Detection Technology
-**Location:** Tianjin, China  
+# Development of Elderly Cane Obstacle Avoidance System Based on Intelligent Detection Technology 
 **Awards:** Municipal Second Prize, Scholarship for Outstanding Undergraduate Students in AI  
 **Role:** Team Leader  
 **Duration:** Apr. 2022–Mar. 2024
@@ -111,15 +88,72 @@ My research interest includes neural machine translation and computer vision. I 
   - Implemented semantic segmentation of blind alleys and crosswalks based on the Inception V3 model.
   - Implemented classification and segmentation of images via classifiers to aid the planning of optimal paths.
 
-# 🎖 Honors and Awards
+# 👑 Honors and Awards
 - *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
-- *2022.09* Tianjin Regional Bronze Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. 
+- *2023.04* SK Artificial Intelligence Outstanding Undergraduate Scholarship
+- *2022.09* Tianjin Regional Bronze Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition.
+
 
 # 📖 Educations
 - *2024.09 - 2026.07 (now)*, The University of Hong Kong, Master of Science in Artificial Intelligence.
 - *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering and Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
 
-# 💬 
+# 💻 Projects Experience
+# Classification Research on Types of Glass Cultural Relics
+**Location:** Tianjin, China  
+**Competition:** National College Student Mathematical Modeling Competition 2022  
+**Role:** Team Leader  
+**Date:** Sep. 2022
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Project Highlights
+
+- **Data Preprocessing & Analysis:**
+  - Utilized the Pandas library to clean rows with missing content.
+  - Analyzed the dataset of glass artifacts.
+  - Determined correlations between elements (chemical composition, glass type, weathering) using the Pierce correlation coefficient.
+
+- **Regression Modeling & Selection:**
+  - Established and tested various regression models, including Bayesian ridge regression, elastic network regression, SVM regression, and gradient-boosting regression.
+  - The gradient-boosting regression model was the most accurate, achieving 100% classification accuracy on existing data.
+
+- **Chemical Composition Prediction:**
+  - Applied the chosen regression model to predict the chemical composition content before weathering.
+  - Demonstrated the model's efficacy in providing insights into historical artifacts.
+
+- **Glass Heritage Sample Analysis:**
+  - Standardized index data for different categories of glass heritage samples.
+  - Conducted KMO and Bartlett's tests.
+  - Performed principal component analysis based on the test results.
+
+# The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition
+**Location:** Tianjin, China  
+**Award:** Second Prize in the Tianjin Division  
+**Role:** Team Leader  
+**Duration:** Mar. 2023–May. 2023
+
+## Project Highlights
+
+- **Project Planning & Vision:**
+  - Spearheaded the planning of an intelligent system designed to assist visually impaired individuals.
+  - Integrated smart glasses, smart canes, and smartphones.
+  - Envisioned a system that enables the visually impaired to carry out daily activities independently.
+
+- **Industry Research & Analysis:**
+  - Conducted comprehensive data collection and analysis on new technology used for medical devices.
+  - Investigated industry trends, market drivers, financial data, and product types.
+  - Provided strategic direction and suggested improvements for the technology team.
+
+- **Business Plan & Presentation:**
+  - Authored a 5000-word business plan depicting the project's objectives, strategies, and market potential.
+  - Compiled and presented the project report, showcasing the concept and its feasibility to stakeholders.
+
+# 📌 Extracurricular Activities
+# School of Computer Science / Cyber Security Social Practice and Volunteer Service Center
+**Location:** Nankai University  
+**Role:** Director  
+**Duration:** Sep. 2021 - Sep. 2022
+
+## Achievements
+
+- Provided volunteer services for over 1100 students, accumulating over 3000 hours of volunteer service.
+- Organized and planned over 100 volunteer activities.
