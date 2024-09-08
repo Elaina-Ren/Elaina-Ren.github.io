@@ -64,6 +64,52 @@ My research interest includes neural machine translation and computer vision. I 
   - Provided a computational platform for evaluating the consistency of 3D genomic spatial domains.
   - The web-based platform offers a user-friendly interface and simple operational workflow.
   - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
+ 
+# Research on Big Data Recommendation Systems
+**Location:** Tianjin, China  
+**Course Project:** May 2023–Jun. 2023
+
+## Project Highlights
+
+- **Algorithm Implementation:**
+  - Explored constructing an effective recommendation system by employing various algorithms.
+  - Focused on improving accuracy and solving data sparsity issues.
+  - Implemented User-Based Collaborative Filtering and FunkSVD algorithms.
+  - Improved recommendation accuracy and computational efficiency through matrix factorization and user similarity analysis.
+
+- **Data Processing and Analysis:**
+  - Handled and analyzed a large-scale dataset comprising 19,835 users and 28,292 items.
+  - The dataset covered user IDs ranging from 0 to 19,834 and item IDs ranging from 9 to 6,249,320.
+  - Processed 11,901 evaluation points for training and validating models.
+  - Enhanced data preprocessing methods to increase model training quality and robustness.
+
+- **Performance Evaluation:**
+  - Assessed algorithm performance using RMSE and other metrics.
+  - Demonstrated that FunkSVD had superior prediction accuracy, reducing RMSE from 30.17364 to 23.64519.
+  - Decreased runtime by 90% compared to User-Based Collaborative Filtering.
+
+# Development of Elderly Cane Obstacle Avoidance System Based on Intelligent Detection Technology
+**Location:** Tianjin, China  
+**Awards:** Municipal Second Prize, Scholarship for Outstanding Undergraduate Students in AI  
+**Role:** Team Leader  
+**Duration:** Apr. 2022–Mar. 2024
+
+## Project Highlights
+
+- **Intelligent Mobility System Development:**
+  - Led a team to develop an intelligent mobility system for the elderly using multi-sensor technology.
+  - Included fall and obstacle detection, waterlogging identification with YOLOv5, and semantic segmentation.
+  - Addressed a critical challenge with the YOLOv5 model: Identified an issue where the model performed worse on smaller sized images on the edge device.
+  - Solution: Fine-tuned the model with smaller size training examples minimizing the train-test domain gap, improving performance on the device.
+
+- **Waterlogged Pavement Detection:**
+  - Normalized and refined a dataset containing statistics on waterlogged pavement using the YOLOv5 model.
+  - Conducted model training and experimental testing using a Raspberry Pi.
+  - The final waterlogged pavement detection feedback time was approximately 0.5 seconds, with a 90% accuracy rate.
+
+- **Semantic Segmentation:**
+  - Implemented semantic segmentation of blind alleys and crosswalks based on the Inception V3 model.
+  - Implemented classification and segmentation of images via classifiers to aid the planning of optimal paths.
 
 # 🎖 Honors and Awards
 - *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
