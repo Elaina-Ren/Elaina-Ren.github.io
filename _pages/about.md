@@ -17,7 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About me
+---
 
+Currently, I am pursuing a Master of Science in Artificial Intelligence at The University of Hong Kong. My academic journey started at Nankai University, where I obtained a degree in Internet of Things Engineering and Finance. During my undergraduate studies, I focused on programming, data structures, and intelligent computing systems, and gained practical experience through various projects. In particular, winning second place in the Tianjin regional competition further fueled my interest in tackling technical challenges.
+
+I have a strong interest in deep learning and big data processing. Specifically, I am intrigued by the application and development potential of large language models (LLMs). I hope to delve deeper into the following areas of research:
+
+1. **Optimization of Deep Learning Models**: Exploring ways to enhance the efficiency of existing models, reducing training time and resource consumption while maintaining or improving accuracy.
+   
+2. **Natural Language Processing (NLP)**: Utilizing advanced NLP techniques to solve real-world problems, such as sentiment analysis and text classification, as well as applications in multilingual environments.
+   
+3. **Model Training on Large Datasets**: Investigating methods to train models on large datasets, including distributed computing and storage solutions to support complex AI tasks.
+I believe that through concrete research practices, I can better understand the challenges in these fields and contribute to solving practical problems.
+
+---
 
 # 📝 Research Experience 
 
