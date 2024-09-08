@@ -42,17 +42,38 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 📝 RESEARCH EXPERIENCE 
+
+# Genome Three-Dimensional Spatial Structure Domain Consistency Assessment Platform
+**Location:** Tianjin, China  
+**Graduation Project:** Scored 90  
+**Duration:** Nov. 2023–Jun. 2024
+
+## Project Highlights
+
+- **Designed a Topological Associated Domain (TAD) Fusion Algorithm based on Multi-layer Graph Neural Networks:**
+  - Utilized graph structures to capture complex correlations between TADs.
+  - Adopted Graph Neural Network (GNN) models with two layers of `GCNConv` and a global average pooling layer to learn node feature representations on the graph.
+  - Proposed a TAD community discovery method based on modularity maximization.
+  - Refined community identification by optimizing the objective function to better recognize communities with high internal connectivity.
+  - The algorithm, informed by the node classification results of the GNN model, achieves more accurate and reliable TAD boundaries, indicating a closer relationship between consistent TADs and physical TAD structures.
+
+- **Developed a 3D Genomic Spatial Domain Consistency Evaluation Platform:**
+  - Built using Web development technologies and the Django framework.
+  - Integrated the aforementioned multi-layer GNN-based TAD fusion algorithm and genomic 3D structure identification tools.
+  - Provided a computational platform for evaluating the consistency of 3D genomic spatial domains.
+  - The web-based platform offers a user-friendly interface and simple operational workflow.
+  - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
+
 # 🎖 Honors and Awards
 - *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
 - *2022.09* Tianjin Regional Bronze Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. 
 
 # 📖 Educations
 - *2024.09 - 2026.07 (now)*, The University of Hong Kong, Master of Science in Artificial Intelligence.
-- *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering, Minor in Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
+- *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering and Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
