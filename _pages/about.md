@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📝 Research Experience 
 
@@ -88,16 +86,6 @@ My research interest includes neural machine translation and computer vision. I 
   - Implemented semantic segmentation of blind alleys and crosswalks based on the Inception V3 model.
   - Implemented classification and segmentation of images via classifiers to aid the planning of optimal paths.
 
-# 👑 Honors and Awards
-- *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
-- *2023.04* SK Artificial Intelligence Outstanding Undergraduate Scholarship
-- *2022.09* Tianjin Regional Bronze Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition.
-
-
-# 📖 Educations
-- *2024.09 - 2026.07 (now)*, The University of Hong Kong, Master of Science in Artificial Intelligence.
-- *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering and Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
-
 # 💻 Projects Experience
 # Classification Research on Types of Glass Cultural Relics
 **Location:** Tianjin, China  
@@ -146,6 +134,15 @@ My research interest includes neural machine translation and computer vision. I 
 - **Business Plan & Presentation:**
   - Authored a 5000-word business plan depicting the project's objectives, strategies, and market potential.
   - Compiled and presented the project report, showcasing the concept and its feasibility to stakeholders.
+
+# 👑 Honors and Awards
+- *2023.05* Second Prize, The 17th 'Challenge Cup' Bank of China Tianjin Municipal College Students' Extracurricular Academic Scientific and Technological Works Competition.
+- *2023.04* SK Artificial Intelligence Outstanding Undergraduate Scholarship
+- *2022.09* Tianjin Regional Bronze Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition.
+
+# 📖 Educations
+- *2024.09 - 2026.07 (now)*, The University of Hong Kong, Master of Science in Artificial Intelligence.
+- *2020.09 - 2024.07*, Nankai University, Bachelor of Internet of Things Engineering and Finance. Relevant Courses: Advanced Language Programming, Data Structures, Deep Learning and Its Applications, Database Systems, Big Data Analytics and Application, Intelligent Computing System.
 
 # 📌 Extracurricular Activities
 # School of Computer Science / Cyber Security Social Practice and Volunteer Service Center
