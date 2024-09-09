@@ -49,6 +49,7 @@ I believe that through concrete research practices, I can better understand the 
   - Provided a computational platform for evaluating the consistency of 3D genomic spatial domains.
   - The web-based platform offers a user-friendly interface and simple operational workflow.
   - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
+
 # Research on Deep Learning                                                                     
 **Course Project**
 
