@@ -49,7 +49,29 @@ I believe that through concrete research practices, I can better understand the 
   - Provided a computational platform for evaluating the consistency of 3D genomic spatial domains.
   - The web-based platform offers a user-friendly interface and simple operational workflow.
   - Provides data calculation services such as consistency evaluation of different TAD structures and consistency TAD computational analysis.
- 
+# Research on Deep Learning                                                                     
+**Course Project**
+
+**Duration:** May.2023 - Jun.2023
+
+## Project Highlights
+
+- Utilized ResNet18 as the base network architecture, replacing the basic block with the bottleneck structure.
+- Reproduced and improved the following papers:
+  - **GCNet:** Simplified and unified the models of NLBlock and SEBlock to achieve global context modeling, improving accuracy to 56.73%.
+  - **Res2Net:** Enhanced multi-scale feature representation to increase the receptive field, achieving an accuracy of 57.49%.
+  - **Triplet Attention:** Strengthened the interaction between spatial and channel dimensions, improving accuracy to 59.13%.
+  - **Coordinate Attention:** Embedded positional information to improve channel information modeling, reaching an accuracy of 55.89%.
+
+- Conducted ablation experiments and attempted the following improvements:
+  - Combined CA with GC Layer to increase accuracy to 57.04% by integrating coordinate attention with the GC layer.
+  - Added Channel Attention to enhance inter-channel information interaction, achieving an accuracy of 56.61%.
+
+- **Performance Evaluation:**
+  - Compared the performance of different models and validated the effectiveness of each method using the CIFAR-100 dataset.
+  - Conducted extensive experiments to evaluate the impact of each component on overall model performance.
+  - Utilized cross-validation techniques to ensure robustness and generalizability of the results.
+    
 # Research on Big Data Recommendation Systems
 **Course Project**                 
 
